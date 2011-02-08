@@ -69,7 +69,7 @@ GEM
     rspec-expectations (2.4.0)
       diff-lcs (~> 1.1.2)
     rspec-mocks (2.4.0)
-    rspec-rails (2.4.1)
+    rspec-rails (2.4.0)
       actionpack (~> 3.0)
       activesupport (~> 3.0)
       railties (~> 3.0)
@@ -91,7 +91,7 @@ PLATFORMS
 
 DEPENDENCIES
   rails (= 3.0.3)
-  rspec
-  rspec-rails
+  rspec (= 2.4.0)
+  rspec-rails (= 2.4.0)
   sqlite3-ruby
   webrat (= 0.7.1)
