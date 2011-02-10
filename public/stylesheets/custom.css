@@ -45,6 +45,9 @@ a:visited {
 /* Navigations */
 nav {
 	float: right;
+}
+
+nav {
 	background: white;
 	padding: 0 0.7em;
 	white-space: no-wrap;
